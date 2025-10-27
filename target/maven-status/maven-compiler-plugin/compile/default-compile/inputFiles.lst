@@ -1,0 +1,6 @@
+/root/test-project1/src/main/java/kr/goodee/StswebjpaApplication.java
+/root/test-project1/src/main/java/kr/goodee/mem/Member.java
+/root/test-project1/src/main/java/kr/goodee/mem/MemberController.java
+/root/test-project1/src/main/java/kr/goodee/mem/MemberRepository.java
+/root/test-project1/src/main/java/kr/goodee/mem/MemberSvc.java
+/root/test-project1/src/main/java/kr/goodee/mem/MemberSvcImpl.java
